@@ -1,3 +1,8 @@
 fastapi
 uvicorn
 mangum
+pydantic
+scikit-learn
+nltk
+textblob
+numpy
